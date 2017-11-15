@@ -1,0 +1,131 @@
+Environment variables:
+  - =C:=C:\Users\Jairo\eclipse-workspace\Prueba
+  - ALLUSERSPROFILE=C:\ProgramData
+  - APPDATA=C:\Users\Jairo\AppData\Roaming
+  - CLASSPATH=.;C:\Program Files\Java\jdk1.8.0_11\lib;
+  - COMPUTERNAME=SONYVAIO-PC
+  - ComSpec=C:\Windows\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - ERROR_CODE=0
+  - FP_NO_HOST_CHECK=NO
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\Jairo
+  - JAVA_EXEC="C:\sonar-runner\bin\..\jre\bin\java.exe"
+  - JAVA_HOME=C:\sonar-runner\bin\..\jre
+  - LOCALAPPDATA=C:\Users\Jairo\AppData\Local
+  - LOGONSERVER=\\SONYVAIO-PC
+  - NUMBER_OF_PROCESSORS=4
+  - OS=Windows_NT
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 69 Stepping 1, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=4501
+  - PROJECT_HOME=C:\Users\Jairo\eclipse-workspace\Prueba
+  - PROMPT=$P$G
+  - PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+  - PUBLIC=C:\Users\Public
+  - Path=C:\sonarR\bin;C:\Program Files\Java\jdk1.8.0_11\bin;C:\ProgramData\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\nodejs\;C:\Git\cmd
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SONAR_RUNNER_HOME=C:\sonarR
+  - SONAR_SCANNER_HOME=C:\sonar-runner\bin\..
+  - SystemDrive=C:
+  - SystemRoot=C:\Windows
+  - TEMP=C:\Users\Jairo\AppData\Local\Temp
+  - TMP=C:\Users\Jairo\AppData\Local\Temp
+  - USERDOMAIN=SONYVAIO-PC
+  - USERNAME=Jairo
+  - USERPROFILE=C:\Users\Jairo
+  - VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+  - scriptdir=C:\sonar-runner\bin
+  - use_embedded_jre=true
+  - windir=C:\Windows
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=C:\sonar-runner\bin\..\lib\sonar-scanner-cli-3.0.3.778.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=C:\sonar-runner\jre\lib\endorsed
+  - java.ext.dirs=C:\sonar-runner\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+  - java.home=C:\sonar-runner\jre
+  - java.io.tmpdir=C:\Users\Jairo\AppData\Local\Temp\
+  - java.library.path=C:\sonar-runner\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\sonarR\bin;C:\Program Files\Java\jdk1.8.0_11\bin;C:\ProgramData\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\nodejs\;C:\Git\cmd;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_121-b13
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_121
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.121-b13
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 7
+  - os.version=6.1
+  - path.separator=;
+  - project.home=C:\Users\Jairo\eclipse-workspace\Prueba
+  - scanner.home=C:\sonar-runner\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.class.path=C:\sonar-runner\jre\lib\resources.jar;C:\sonar-runner\jre\lib\rt.jar;C:\sonar-runner\jre\lib\sunrsasign.jar;C:\sonar-runner\jre\lib\jsse.jar;C:\sonar-runner\jre\lib\jce.jar;C:\sonar-runner\jre\lib\charsets.jar;C:\sonar-runner\jre\lib\jfr.jar;C:\sonar-runner\jre\classes
+  - sun.boot.library.path=C:\sonar-runner\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - sun.stderr.encoding=cp850
+  - sun.stdout.encoding=cp850
+  - user.country=CO
+  - user.dir=C:\Users\Jairo\eclipse-workspace\Prueba
+  - user.home=C:\Users\Jairo
+  - user.language=es
+  - user.name=Jairo
+  - user.script=
+  - user.timezone=America/Bogota
+  - user.variant=
+SonarQube plugins:
+  - SonarC# 6.5.0.3766 (csharp)
+  - SonarPython 1.8.0.1496 (python)
+  - SonarJava 4.15.0.12310 (java)
+  - Flex 2.3 (flex)
+  - SonarQube :: Plugins :: SCM :: Git 1.3.0.869 (scmgit)
+  - SonarXML 1.4.3.1027 (xml)
+  - SonarPHP 2.11.0.2485 (php)
+  - SonarTS 1.1.0.1079 (typescript)
+  - SonarQube :: Plugins :: SCM :: SVN 1.6.0.860 (scmsvn)
+  - SonarJS 3.2.0.5506 (javascript)
+Global properties:
+  - sonar.core.id=AV-h72FLbtTMrscRVcAD
+  - sonar.core.startTime=2017-11-13T21:28:30-0500
+Settings for module: my:project
+  - sonar.projectBaseDir=C:\Users\Jairo\eclipse-workspace\Prueba
+  - sonar.projectKey=my:project
+  - sonar.projectName=My project
+  - sonar.projectVersion=1.0
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=src
+  - sonar.verbose=true
+  - sonar.working.directory=C:\Users\Jairo\eclipse-workspace\Prueba\.scannerwork
